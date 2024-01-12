@@ -3,7 +3,11 @@
 ### Description
 Functionally the same as CoursesApp_HTTPS_Server_JWT. Routes are the same as well.
 But I'll store data in files vs in memory.
-Create separate files for each entity (admin, user, course, purchase).  Similar: https://github.com/anujagrawal699/CoursesApp_HTTPS_Server  https://github.com/anujagrawal699/CoursesApp_HTTPS_Server_JWT
+Created separate files for each entity (admin, user, course, purchase).
+
+Similar: 
+https://github.com/anujagrawal699/CoursesApp_HTTPS_Server  
+https://github.com/anujagrawal699/CoursesApp_HTTPS_Server_JWT
 
 ## Routes
 ### Admin Routes:
