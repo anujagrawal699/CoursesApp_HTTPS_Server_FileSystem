@@ -8,7 +8,7 @@ Created separate files for each entity (admin, user, course, purchase).
 Senior Version:  
 https://github.com/anujagrawal699/CoursesApp_HTTPS_Server_MongoDB
 
-Junior Version: 
+Junior Version:   
 https://github.com/anujagrawal699/CoursesApp_HTTPS_Server_JWT
 https://github.com/anujagrawal699/CoursesApp_HTTPS_Server  
 
